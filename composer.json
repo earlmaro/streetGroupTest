@@ -1,0 +1,9 @@
+{
+    "name": "preci/street-group-test",
+    "autoload": {
+        "psr-4": {
+            "Preci\\StreetGroupTest\\": "app/"
+        }
+    },
+    "require": {}
+}
